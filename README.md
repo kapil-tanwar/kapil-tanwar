@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kapil Tanwar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A dedicated Full Stack Developer from India with a passion for building end-to-end web solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapil-tanwar&label=Profile%20views&color=0e75b6&style=flat" alt="kapil-tanwar" /> </p>
 
