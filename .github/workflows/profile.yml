@@ -1,8 +1,8 @@
-name: Generate Snake
+name: Profile
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 3 * * *"
 
   workflow_dispatch:
 
@@ -13,12 +13,56 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile
+  cancel-in-progress: true
+
 jobs:
-  generate:
+
+  # =========================
+  # GitHub Stats
+  # =========================
+  stats:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate GitHub stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: kapil-tanwar
+        run: node scripts/build-cards.mjs
+
+      - name: Commit updated stats
+        run: |
+          if git diff --quiet -- assets/; then
+            echo "No stats changes"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/
+          git commit -m "chore: update GitHub stats"
+          git push
+
+
+  # =========================
+  # Contribution Snake
+  # =========================
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: kapil-tanwar
