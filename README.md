@@ -87,22 +87,27 @@ I'm a **B.Tech Information Technology student at IIIT Sonepat**, focused on buil
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<!-- GitHub Activity + Languages -->
 <img
-  src="./assets/stats.svg"
+  src="https://github-readme-stats.shion.dev/api?username=kapil-tanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
   alt="GitHub Statistics"
-  width="880"
 />
 
-<br><br>
+<br>
 
-<!-- Contribution Streak -->
 <img
-  src="https://streak-stats.demolab.com/?user=kapil-tanwar&theme=dark&background=0D1117&border=21262D&ring=F08800&fire=F08800&currStreakLabel=F08800&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  src="https://streak-stats.demolab.com/?user=kapil-tanwar&theme=dark&hide_border=false"
   alt="GitHub Streak Statistics"
-  width="880"
+/>
+
+<br>
+
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=kapil-tanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+  alt="Top Languages"
 />
 
 </div>
