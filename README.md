@@ -89,16 +89,20 @@ I'm a **B.Tech Information Technology student at IIIT Sonepat**, focused on buil
 
 <div align="center">
 
+<!-- GitHub Activity + Languages -->
 <img
-  src="https://streak-stats.demolab.com/?user=kapil-tanwar&theme=dark&background=0D1117&border=30363D&ring=F08800&fire=F08800&currStreakLabel=F08800"
-  width="90%"
+  src="./assets/stats.svg"
+  alt="GitHub Statistics"
+  width="880"
 />
 
 <br><br>
 
+<!-- Contribution Streak -->
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapil-tanwar&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-  width="55%"
+  src="https://streak-stats.demolab.com/?user=kapil-tanwar&theme=dark&background=0D1117&border=21262D&ring=F08800&fire=F08800&currStreakLabel=F08800&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  alt="GitHub Streak Statistics"
+  width="880"
 />
 
 </div>
