@@ -1,24 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Kapil Tanwar
-
-### Software Engineer • Full-Stack Developer • AI/GenAI Enthusiast
-
-Building scalable backend systems, full-stack applications and AI-powered products.
+<img
+  src="./assets/header.svg"
+  alt="Kapil Tanwar — Software Engineer"
+  width="880"
+/>
 
 <br>
 
 <a href="https://port-folio-mqvn.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
+
 <a href="https://www.linkedin.com/in/kapil-tanwar-686436279/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
 <a href="mailto:kapiltanwar340@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
+
+---
 
 ---
 
