@@ -31,8 +31,8 @@
 I'm a **B.Tech Information Technology student at IIIT Sonepat**, focused on building reliable and scalable software systems.
 
 - B.Tech IT @ IIIT Sonepat — 2027
-- - Interested in Backend Engineering, Full-Stack Development & GenAI
-- - Experienced in REST APIs, databases, authentication & RBAC
+- Interested in Backend Engineering, Full-Stack Development & GenAI
+- Experienced in REST APIs, databases, authentication & RBAC
 - Building AI/LLM-powered applications
 - Working with Docker and AWS
 - 700+ DSA problems solved
