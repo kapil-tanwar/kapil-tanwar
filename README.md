@@ -106,11 +106,11 @@ I'm a **B.Tech Information Technology student at IIIT Sonepat**, focused on buil
 
 <!-- Contribution Snake -->
 <!-- Contribution Streak -->
-<img
+<!-- <img
   src="https://streak-stats.demolab.com/?user=kapil-tanwar&theme=dark&background=0D1117&border=21262D&ring=F08800&fire=F08800&currStreakLabel=F08800&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
   alt="GitHub Streak Statistics"
   width="880"
-/>
+/> -->
 
 </div>
 
