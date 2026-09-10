@@ -105,21 +105,12 @@ I'm a **B.Tech Information Technology student at IIIT Sonepat**, focused on buil
 <br><br>
 
 <!-- Contribution Snake -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/kapil-tanwar/kapil-tanwar/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/kapil-tanwar/kapil-tanwar/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/kapil-tanwar/kapil-tanwar/output/github-snake.svg"
-    alt="GitHub contribution snake"
-    width="880"
-  />
-</picture>
+<!-- Contribution Streak -->
+<img
+  src="https://streak-stats.demolab.com/?user=kapil-tanwar&theme=dark&background=0D1117&border=21262D&ring=F08800&fire=F08800&currStreakLabel=F08800&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  alt="GitHub Streak Statistics"
+  width="880"
+/>
 
 </div>
 
